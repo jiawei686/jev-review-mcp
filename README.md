@@ -1,5 +1,7 @@
 # jev-review-mcp
 
+> 🇨🇳 [中文文档](README.zh-CN.md)
+
 > Code-review gate as a **single-purpose** MCP tool, powered by **Jev** (TypeSafe's System One decision model). One MCP, one job.
 
 Real-world cost on OpenRouter — **4.9M tokens · $0.19 over 7 days**:
